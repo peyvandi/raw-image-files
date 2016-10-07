@@ -1,5 +1,4 @@
 # raw-image-files
-
 **Distribution of light energy among a population of photosensitive elements**
 
 **AUTHORS:** Peyvandi, S.<sup>1</sup>, Vebjorn, E.<sup>2</sup>, and Gilchrist, A.<sup>1</sup>
