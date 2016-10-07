@@ -2,9 +2,10 @@
 
 **Distribution of light energy among a population of photosensitive elements**
 
-**AUTHORS:** Peyvandi, S.^1, Vebjorn, E.^2, and Gilchrist, A.^1
+**AUTHORS:** Peyvandi, S.<sup>1</sup>, Vebjorn, E.<sup>2</sup>, and Gilchrist, A.<sup>1</sup>
 
-1- 
+1-
+ 
 2- 
 
 ## Source File Information 
