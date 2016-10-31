@@ -8,5 +8,5 @@
 
 ## Source File Information 
 
-The file, *Data_File.tar.gz*, contains 180 _*.raw_ images of a small classic xrite colorchecker, captured by [AR0835HS 1/3.2" 8-megapixel CMOS digital sensor](http://www.onsemi.com/pub_link/Collateral/AR0835HS-D.PDF), manufactured by Aptina-ON Semiconductor. See [light-energy-distribution-among-cells](https://github.com/peyvandi/light-energy-distribution-among-cells.git), for more information and details. 
+The file, *image_Dataset.tar.gz*, contains 180 _*.raw_ images of x-rite mini 24-patch ColorChecker Classic, captured by [AR0835HS 1/3.2" 8-megapixel CMOS digital sensor](http://www.onsemi.com/pub_link/Collateral/AR0835HS-D.PDF), manufactured by Aptina-ON Semionductor. See [light-energy-distribution-among-cells](https://github.com/peyvandi/light-energy-distribution-among-cells.git), for more information and details. 
 
